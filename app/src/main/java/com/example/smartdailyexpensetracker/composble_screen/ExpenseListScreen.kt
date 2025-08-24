@@ -166,7 +166,7 @@ fun ExpenseListScreen(
         Box(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(16.dp),
+                .padding(end = 16.dp, bottom = 56.dp),
             contentAlignment = Alignment.BottomEnd
         ) {
             FloatingActionButton(
