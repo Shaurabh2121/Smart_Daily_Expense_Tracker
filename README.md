@@ -4,6 +4,14 @@
 
 I extensively used Claude (Anthropic's AI) to architect and generate this complete expense tracker application. The AI helped design the MVVM architecture with proper separation of concerns, generated all ViewModels with StateFlow implementation, created comprehensive Room database setup with proper type converters, and built modern Jetpack Compose UI screens with Material Design 3 components. Additionally, AI assisted in implementing navigation patterns, dependency injection with Hilt, and creating reusable UI components with proper state management and validation logic.
 
+## Snapshots 📷
+<p float="left">
+<img width="200" alt="expense_list_screen_without_data" src="https://github.com/user-attachments/assets/35e2ba7a-ef8b-412e-befd-00947ee4fd15" />
+<img width="200" alt="Expense_list_screen_with_data" src="https://github.com/user-attachments/assets/9c85ed12-7aa1-4025-9fd4-374aefe03f7a" />
+  <img width="200" alt="Expense_Entry_Screen" src="https://github.com/user-attachments/assets/06139c9d-050f-4dfc-a9da-a877e8bb97fa" />
+<img width="200" alt="Expense_report_screen" src="https://github.com/user-attachments/assets/66b778df-3e7b-494b-b32a-2128dec5f578" />
+</p>
+
 ## Key AI Assistance Areas
 
 ### 1. Architecture & Code Structure
@@ -144,6 +152,13 @@ A modern Android expense tracking application built with Jetpack Compose and MVV
 - **Navigation**: Navigation Compose
 - **State Management**: StateFlow + Compose State
 - **Date/Time**: Java 8 Time API (LocalDateTime)
+
+## APK Download
+For a quick demo, you can download and install the pre-built APK from the following link:
+https://drive.google.com/file/d/1epT0zBfM_rBv_9m-sJwxPdvF2L1_it8X/view?usp=sharing
+
+My Resume : 
+https://drive.google.com/file/d/1Jz9-bUDe8tVsnUa0t3lPlO_FGiWRVdD3/view?usp=sharing
 
 
 ## License
